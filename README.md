@@ -64,7 +64,7 @@ $CHARGE
 $END
 ```
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> For any inquires, questions, suggestions, etc. do not hesitate to contact us: Yury.Minenkov"at"gmail.com (replace "at" with @)
 
 > **When using this code please cite the following publications:**
 > 1) "Uniconf: An Alternative Conformer Generator with Broad Applicability", Y. Minenkov, 2024, submitted [**Generic reference**]
