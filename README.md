@@ -10,7 +10,7 @@ This repository **Uniconf** contains:
 ## Running the code
 ### Preparation of input files
 There are two ways to generate the Uniconf programs input files:
-1) Manual preparation with your editor of choice. Please, see folder ```INPXYZ.zip``` for examples. In the examples, feel free to modify MK, ITER1 & ITER2 values for quick testing.
+1) Manual preparation with your editor of choice. Please, see folder ```INPXYZ.zip``` for examples. In the examples, feel free to modify MK, ITER1 & ITER2 values for quick testing of the Uniconf.
 2) Running the Python 3 scripts on the ORCA, Priroda output files with charges.
    ..
 4)   
