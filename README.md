@@ -16,7 +16,10 @@ There are two ways to generate the Uniconf programs input files:
     - ```python3 /path/to/your/script/get_CHR_ORCA.py molecule.out``` (for ORCA output molecule.out with CHELPG, HIRSHFELD or MULLIKEN charges)
   
     - ```python3 /path/to/your/script/get_CHR_PRIRODA.py molecule.out``` (for Priroda output molecule.out with HIRSHFELD charges) 
-  - In case of rotatable bonds in your system, prepare molecule.ROT file. In this file each line should contain rotatable bond specification ```Atom1   Atom2   Angle_Increment   Angle_MAX_value   Angle_MAX_deviation```, for example ```1  2  120  240  15```, read manual for more details/   
+  - In case of rotatable bonds in your system, prepare molecule.ROT file. In this file each line should contain rotatable bond specification ```Atom1   Atom2   Angle_Increment   Angle_MAX_value   Angle_MAX_deviation```, for example ```1  2  120  240  15```, read the manual for more details.   
+  - Run another script to preprate the final Uniconf input (molecule-uni.inp):
+    - 
+
 ### 
 
 
