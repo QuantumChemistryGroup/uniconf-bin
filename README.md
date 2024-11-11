@@ -7,7 +7,11 @@ This repository **Uniconf** contains:
 1) Linux operational system (for Uniconf)
 2) Python 3 (for scripts)
 
-
+## Running the code
+### Preparation of input files
+There are two ways to generate the Uniconf programs input files:
+1) Manual preparation with your editor of choice. Please, see folder ```..``` for examples. In the examples, feel free to modify MK, ITER1 & ITER2 values for quick testing.
+### 
 
 
 > **When using this code please cite the following publications:**
