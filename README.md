@@ -12,8 +12,8 @@ This repository **Uniconf** contains:
 There are two ways to generate the Uniconf programs input files:
 1. Manual preparation with your editor of choice. Please, see folder ```INPXYZ.zip``` for examples. In the examples, feel free to modify MK, ITER1 & ITER2 values for quick testing of the Uniconf.
 2. Running the Python 3 scripts on the ORCA or Priroda output files with charges (please, e-mail us if you need these scripts for other quantum chemistry programs). 
-1) Prepare molecule.CHR file with charges:
-  > ```python3 /path/to/your/script/get_CHR_ORCA.py molecule.out``` (for ORCA output molecule.out with CHELPG, HIRSHFELD or MULLIKEN charges)
+  - Prepare molecule.CHR file with charges:
+    - ```python3 /path/to/your/script/get_CHR_ORCA.py molecule.out``` (for ORCA output molecule.out with CHELPG, HIRSHFELD or MULLIKEN charges)
   
   > ```python3 /path/to/your/script/get_CHR_PRIRODA.py molecule.out``` (for Priroda output molecule.out with HIRSHFELD charges) 
 4)   
