@@ -63,6 +63,9 @@ $CHARGE
    0.0376145 
 $END
 ```
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 > **When using this code please cite the following publications:**
 > 1) "Uniconf: An Alternative Conformer Generator with Broad Applicability", Y. Minenkov, 2024, submitted [**Generic reference**]
 > 2) "16TMCONF543: An Automatically Generated Data Set of Conformational Energies of Transition Metal Complexes Relevant to Catalysis" A. A. Otlyotov, T. P. Rozov, A. D. Moshchenkov, and Y. Minenkov Organometallics 2024, 43, 2232 – 2242 (DOI: 10.1021/acs.organomet.4c00246) [**For isolated molecules**]
