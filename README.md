@@ -23,7 +23,7 @@ There are two ways to generate the Uniconf programs input files:
     - ```python3 /path/to/your/script/input_uniconf-TM.py molecule.CHR``` (e.g. for transition metals)
     - ```python3 /path/to/your/script/input_uniconf-ORG.py molecule.CHR``` (e.g. for large organic molecules)
     - Adjust the lines in the scripts (```input_uniconf-CLUST.py, input_uniconf-TM.py, input_uniconf-ORG.py```) to meet your needs.
-### Test case: 
+
 > [!NOTE]
 > For any inquires, questions, suggestions, etc. do not hesitate to contact us: Yury.Minenkov"at"gmail.com (replace "at" with @)
 
